@@ -1,4 +1,4 @@
-#SOURCE BY :MR-ADI
+#SOURCE BY :MR-ADI aNd RANI 🤙🤙
 
 from os import path
 import os,base64,zlib,pip,urllib
